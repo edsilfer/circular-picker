@@ -1,0 +1,3 @@
+rootProject.name='Circular Picker Demo'
+include ':app'
+include ':circular-picker-library'
